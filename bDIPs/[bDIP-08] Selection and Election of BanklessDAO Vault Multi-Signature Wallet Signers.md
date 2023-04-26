@@ -1,9 +1,11 @@
 
 # [bDIP-08] Selection and Election of BanklessDAO Vault Multi-Signature Wallet Signers
 **Authors**: senad.eth :black_flag:#8782, links :black_flag:#7868, Trewkat#1933, HiroKennellyᵍᵐ :black_flag:#0001
+
 **Working Group**: HiroKennellyᵍᵐ :black_flag:#0001, jengajojo :black_flag:#5896, links#7868, senad.eth :black_flag:#8782, thinkDecade :black_flag:#7181, Trewkat#1933
+
 **Scope**: Minor Change
-Working Doc: Google Doc 5
+
 ## BDIP SUMMARY
 
 Based on the feedback received from the Swapping BanklessDAO Multi-Signers [Temp Check] 8 , this bDIP seeks to modify the BanklessDAO Constitution to include text regarding the selection criteria, mandate, and election procedures associated with the role of a BanklessDAO Vault multi-signature wallet signer.
